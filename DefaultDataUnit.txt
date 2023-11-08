@@ -1,0 +1,21 @@
+------------------------------DefaultDataUnit------------------------------
+
+		"BountyXP"					"69"		// Experience earn.
+		"BountyGoldMin"				"43"		// Gold earned min.
+		"BountyGoldMax"				"52"		// Gold earned max.
+
+		"BountyXP"					"22"		// Experience earn.
+		"BountyGoldMin"				"19"		// Gold earned min.
+		"BountyGoldMax"				"25"		// Gold earned max.
+
+		"BountyXP"					"57"		// Experience earn.
+		"BountyGoldMin"				"34"		// Gold earned min.
+		"BountyGoldMax"				"39"		// Gold earned max.
+
+		"BountyXP"					"25"		// Experience earn.
+		"BountyGoldMin"				"20"		// Gold earned min.
+		"BountyGoldMax"				"26"		// Gold earned max.
+
+		"BountyXP"					"88"		// Experience earn.
+		"BountyGoldMin"				"59"		// Gold earned min.
+		"BountyGoldMax"				"72"		// Gold earned max.
