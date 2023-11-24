@@ -12,6 +12,10 @@
 
 ## 🌭安装
 
+### 0、运行GCFScape_installer并安装
+
+安装后，可以读取.vpk文件
+
 ### 1、新建文件夹mod
 
 路径：…/SteamLibrary/steamapps/common/dota 2 beta/game/dota/mod
