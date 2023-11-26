@@ -74,11 +74,11 @@ move "pak01_dir.vpk" "E:\GamePlatform\Steam\steamapps\common\dota 2 beta\game\mo
 
 <img src="img\win.png"/>
 
-### 3、运行script.bat
+### 3、运行 Dota 2 script.bat
 
 <img src="img\cmd.png"/>
 
-### 4、运行 DOTA2
+### 4、运行 Dota 2
 
 Enjoy Dota🥂
 
